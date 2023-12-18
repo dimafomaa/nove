@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Fixel Display Bold';
+    src: url('FixelDisplay-Bold.eot');
+    src: url('FixelDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+        url('FixelDisplay-Bold.woff2') format('woff2'),
+        url('FixelDisplay-Bold.woff') format('woff'),
+        url('FixelDisplay-Bold.ttf') format('truetype'),
+        url('FixelDisplay-Bold.svg#FixelDisplay-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fixel Display Medium';
+    src: url('FixelDisplay-Medium.eot');
+    src: url('FixelDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('FixelDisplay-Medium.woff2') format('woff2'),
+        url('FixelDisplay-Medium.woff') format('woff'),
+        url('FixelDisplay-Medium.ttf') format('truetype'),
+        url('FixelDisplay-Medium.svg#FixelDisplay-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fixel Display Regular';
+    src: url('FixelDisplay-Regular.eot');
+    src: url('FixelDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('FixelDisplay-Regular.woff2') format('woff2'),
+        url('FixelDisplay-Regular.woff') format('woff'),
+        url('FixelDisplay-Regular.ttf') format('truetype'),
+        url('FixelDisplay-Regular.svg#FixelDisplay-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fixel Display SemiBold';
+    src: url('FixelDisplay-SemiBold.eot');
+    src: url('FixelDisplay-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('FixelDisplay-SemiBold.woff2') format('woff2'),
+        url('FixelDisplay-SemiBold.woff') format('woff'),
+        url('FixelDisplay-SemiBold.ttf') format('truetype'),
+        url('FixelDisplay-SemiBold.svg#FixelDisplay-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
